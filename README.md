@@ -30,8 +30,11 @@ Please feel free to [contact me](mailto:aaron.pung@gmail.com) if you'd like to c
 
 ## Frameworks & Tools
 <p align="left">
-  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="36" height="36" alt="FastAPI" />
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.svgrepo.com/show/373557/docker2.svg" width="36" height="36" alt="Docker" />
+  </a>  
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="36" height="36" alt="Git" />
   </a>
   <a href="https://numpy.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="36" height="36" alt="NumPy" />
@@ -39,19 +42,31 @@ Please feel free to [contact me](mailto:aaron.pung@gmail.com) if you'd like to c
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="36" height="36" alt="Pandas" />
   </a>
-  <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="36" height="36" alt="Azure" />
-  </a>
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="36" height="36" alt="Scikit-learn" />
   </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="36" height="36" alt="Git" />
+  <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="36" height="36" alt="Azure" />
+  </a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="36" height="36" alt="FastAPI" />
   </a>
 </p>
 
-## Socials
+## Data Management
+<p align="left">
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://icon.icepanel.io/Technology/svg/MongoDB.svg" width="36" height="36" alt="MongoDB" />
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.svgrepo.com/show/303301/postgresql-logo.svg" width="36" height="36" alt="PostgreSQL" />
+  </a>
+  <a href="https://aws.amazon.com/?nc2=h_lg" target="_blank" rel="noreferrer">
+    <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/aws-color.png" width="36" height="36" alt="AWS" />
+  </a>  
+</p>
 
+## Socials
 <p align="left">
   <a href="https://www.linkedin.com/in/aaronpung" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
