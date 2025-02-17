@@ -56,6 +56,9 @@ Please feel free to [contact me](mailto:aaron.pung@gmail.com) if you'd like to c
   <a href="https://www.linkedin.com/in/aaronpung" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
   </a>
+  <a href=https://stackoverflow.com/users/5666203/aaronjpung" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/512px-Stack_Overflow_icon.svg.png?20190716190036" width="32" height="32" alt="StackOverflow" />
+  </a>  
 </p>
 
 
