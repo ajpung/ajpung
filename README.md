@@ -1,7 +1,7 @@
 Aaron J. Pung, Ph.D.
 ==================================
 
-**Data Scientist | ML Engineer | Physicist**
+**Data Scientist -- ML Engineer -- Physicist**
 
 I'm a physicist with a knack for software development! I have a deep fascination in all things space, physics, science, and gaining a deeper knowledge on computational paradigms. My insatiable thirst for innovation is evidenced in sole author publications and patents!
 
