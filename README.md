@@ -1,16 +1,26 @@
-## Hi there 👋
+<h1 align="center">👋 Hi, I'm [Your Name]</h1>
+<h3 align="center">Scientific Software Developer | ML Engineer | Physics Professional</h3>
 
-<!--
-**ajpung/ajpung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
+🔭 Currently developing RAVEN (Real-time Analysis of Variable Environmental Networks)  
+🌱 Expanding my expertise in ML/AI and API development  
+💡 Background in visualization, data analysis, and signal processing  
+🚀 Passionate about applying physics to real-world problems  
 
-Here are some ideas to get you started:
+### Tech Stack
+- 💻 Languages: Python, [others...]
+- 📊 Data Science: NumPy, Pandas, Scikit-learn
+- 🤖 ML/AI: [Your ML frameworks]
+- 🌐 API Development: FastAPI
+- ☁️ Cloud: Azure
+- 🔧 Tools: Git, GitHub Actions, SonarCloud
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Featured Projects
+- 🦅 **RAVEN**: Environmental analysis platform integrating multiple data streams
+  - Real-time data processing
+  - ML-powered pattern detection
+  - RESTful API service
+  [More projects...]
+
+### Let's Connect
+[Your preferred contact methods/social links]
