@@ -34,7 +34,7 @@ Please feel free to [contact me](mailto:aaron.pung@gmail.com) if you'd like to c
 ## Data Management
 <p align="left">
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://icon.icepanel.io/Technology/svg/MongoDB.svg" width="36" height="36" alt="MongoDB"/></a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/303301/postgresql-logo.svg" width="36" height="36" alt="PostgreSQL"/></a>
+  <a href="https://azure.microsoft.com/en-us/products/cosmos-db/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Azure_Cosmos_DB.svg" width="36" height="36" alt="PostgreSQL"/></a>
   <a href="https://aws.amazon.com/?nc2=h_lg" target="_blank" rel="noreferrer"><img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/aws-color.png" width="36" height="36" alt="AWS"/></a>  
 </p>
 
