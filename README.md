@@ -67,6 +67,4 @@ Please feel free to [contact me](mailto:aaron.pung@gmail.com) if you'd like to c
 
 <a href="http://www.github.com/ajpung"><img src="https://github-readme-stats.vercel.app/api?username=ajpung&show_icons=true&hide=&count_private=true&title_color=fa6c00&text_color=ffffff&icon_color=fa6c00&bg_color=202324&hide_border=true&show_icons=true" alt="AJPung's GitHub stats" /></a>
 
-<a href="http://www.github.com/ajpung"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ajpung&stroke=ffffff&background=202324&ring=fa6c00&fire=fa6c00&currStreakNum=ffffff&currStreakLabel=fa6c00&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
 <a href="https://github.com/ajpung" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajpung&langs_count=10&title_color=fa6c00&text_color=ffffff&icon_color=fa6c00&bg_color=202324&hide_border=true&locale=en&custom_title=Top%20%Languages&hide_progress=true" alt="Top Languages" /></a>
