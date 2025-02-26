@@ -6,7 +6,7 @@ I'm a physicist with a knack for software development! I have a deep fascination
 Please feel free to [contact me](mailto:aaron.pung@gmail.com) if you'd like to collaborate! I'm always interested in helping out.
 
 ## Featured Projects
-- 🦅 **RAVEN**: Real-time Analysis for Variable Environmental Networks
+- **RAVEN**: Real-time Analysis for Variable Environmental Networks
   - An environmental analysis platform integrating multiple data streams
   - Real-time data processing
   - ML-powered pattern detection
