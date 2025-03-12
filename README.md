@@ -12,9 +12,6 @@ Please feel free to [contact me](mailto:aaron.pung@gmail.com) if you'd like to c
 
   <a href="http://www.github.com/ajpung"><img src="https://github-readme-stats.vercel.app/api?username=ajpung&show_icons=true&hide=&count_private=true&title_color=fa6c00&text_color=ffffff&icon_color=fa6c00&bg_color=202324&hide_border=true&show_icons=true" alt="My GitHub stats" /></a>
 
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=ajpung&theme=dark)
-
-
 ## Leetcode
   
   ![LeetCode stats](https://leetcode-badge-sage.vercel.app/badge/ajpung?theme=dark)
