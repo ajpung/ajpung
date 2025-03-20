@@ -3,7 +3,7 @@ Data Scientist | ML Engineer | Physicist
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ajpung&color=fa6c00)
 
-PhD physicist and data scientist specializing in turning complex scientific data into actionable insights. With expertise in RF analysis, ML/computer vision, and signal processing, I build systems that solve real-world problems. My work spans defense tech, space systems, and environmental monitoring, with a passion for projects that push technical boundaries while delivering measurable impact. When I'm not developing at work, you'll find me building one of my projects that combine my interests in data science and the natural world. 
+I am a Physicist and Data Scientist specialized in turning complex scientific data into actionable insights. With expertise in RF analysis, ML/computer vision, and signal processing, I build tools that solve real-world problems. My portfolio spans defense tech, space systems, and environmental monitoring, demonstrating my passion for projects, pushing technical boundaries, and delivering high-impact results. When I'm not developing software, you'll find me building one of my personal projects that combine my interests in data science with the natural world. 
 
 Please feel free to [contact me](mailto:aaron.pung@gmail.com) if you'd like to collaborate! I'm always interested in helping out.
 
