@@ -5,6 +5,8 @@ Data Scientist | ML Engineer | Physicist
 
 I am a Physicist and Data Scientist specialized in turning complex scientific data into actionable insights. With expertise in RF analysis, ML/computer vision, and signal processing, I build tools that solve real-world problems. My portfolio spans defense tech, space systems, and environmental monitoring, demonstrating my passion for projects, pushing technical boundaries, and delivering high-impact results. When I'm not developing software, you'll find me building one of my personal projects that combine my interests in data science with the natural world. 
 
+while still learning, my projects cover a wide variety if data storage, exploitation,  and analysis practices, from databases to ML pipelines!
+
 Please feel free to [contact me](mailto:aaron.pung@gmail.com) if you'd like to collaborate! I'm always interested in helping out.
 
  
