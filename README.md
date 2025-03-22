@@ -1,4 +1,4 @@
-Data Scientist | ML Engineer | Physicist
+Data Scientist | AI/ML Engineer | Physicist
 ==========================================
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ajpung&color=fa6c00)
