@@ -3,7 +3,7 @@ Data Scientist | AI/ML Engineer | Physicist
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ajpung&color=fa6c00)
 
-   As a Data  Scientist, I specialize in turning complex scientific data into actionable insights. With years of expertise in RF analysis, machine learning, computer vision, photonics, and signal processing, I thrive on building tools that efficiently solve real-world problems. 
+   As a Data Scientist, I specialize in turning complex scientific data into actionable insights. With years of expertise in RF analysis, machine learning, computer vision, photonics, and signal processing, I thrive on building tools that efficiently solve real-world problems. 
 
    My portfolio spans defense tech, space systems, environment monitoring, computer vision, and demonstrating my passion for small- and large-scale projects that push technical boundaries to deliver high-impact results. When I'm not developing software, I'm building one of my personal projects that combine my interests in data science with the natural world. 
 
