@@ -63,8 +63,7 @@ Please feel free to [contact me](mailto:aaron.pung@gmail.com) if you'd like to c
 
 ## Featured Projects
 
-[**RAVEN**](https://www.raven-env.io): Real-time Analysis for Variable Environmental Networks
-  - An environmental analysis platform integrating multiple data streams
+[**BUCK**](https://www.agemydeer.com): Real-time Whitetailed Deer Age Analysis
+  - A platform allowing hunters and outdoor enthusiasts to age deer via trailcam imagery
   - Real-time data processing
   - ML-powered pattern detection
-  - RESTful API service
